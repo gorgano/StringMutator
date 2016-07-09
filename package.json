@@ -1,0 +1,19 @@
+{
+  "name": "stringmutator",
+  "version": "1.0.0",
+  "description": "mutate string to become second string, within the bounds of the provided dictionary",
+  "main": "mutate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorgano/StringMutator.git"
+  },
+  "author": "Jason Hurst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorgano/StringMutator/issues"
+  },
+  "homepage": "https://github.com/gorgano/StringMutator#readme"
+}
